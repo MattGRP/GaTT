@@ -52,4 +52,4 @@ yarn-error.log*
 
 /meili_data
 .env.example
-lib/auth.ts
+/.idea/
