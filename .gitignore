@@ -53,5 +53,3 @@ yarn-error.log*
 /meili_data
 .env.example
 lib/auth.ts
-.idea/.idea.gatt.dir/.idea/workspace.xml
-.idea/.idea.gatt.dir/.idea/workspace.xml
