@@ -5,7 +5,7 @@ import React from "react";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
 
-import { Book, CodeXml, Home, PanelLeft, ScrollIcon, Tags , Message } from "lucide-react";
+import { Book, CodeXml, Home, PanelLeft, ScrollIcon, Tags } from "lucide-react";
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button, buttonVariants } from "@/components/ui/button";
