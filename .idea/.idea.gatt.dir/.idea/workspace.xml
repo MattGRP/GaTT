@@ -18,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Caddyfile" beforeDir="false" afterPath="$PROJECT_DIR$/Caddyfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/about/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/blog/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/blog/page.tsx" afterDir="false" />
@@ -42,6 +41,7 @@
       <change beforePath="$PROJECT_DIR$/features/admin/pages/note/admin-note-list-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/note/admin-note-list-page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/admin/pages/snippet/admin-snippet-list-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/snippet/admin-snippet-list-page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/admin/pages/tag/admin-tag-list-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/tag/admin-tag-list-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/auth/pages/sign-in-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/auth/pages/sign-in-page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/blog/components/blog-list-item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/blog/components/blog-list-item.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/blog/components/blog-list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/blog/components/blog-list.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/blog/pages/blog-detail-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/blog/pages/blog-detail-page.tsx" afterDir="false" />
@@ -81,7 +81,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/aifuxi/fuxiaochen.git",
+    "url": "https://github.com/MattGRP/gatt.git",
     "accountId": "90a39713-2143-4f91-862a-210c6de907f5"
   }
 }]]></component>
@@ -101,7 +101,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -127,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722159033424</updated>
-      <workItem from="1722159036137" duration="2112000" />
+      <workItem from="1722159036137" duration="2460000" />
     </task>
     <servers />
   </component>
