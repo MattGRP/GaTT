@@ -72,8 +72,6 @@ enum TagTypeEnum {
   SNIPPET
   // 仅用于笔记
   NOTE
-  //仅用于留言
-  MESSAGE
 }
 
 model Tag {
