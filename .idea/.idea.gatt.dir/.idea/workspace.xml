@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7561a970-a688-4b64-9675-356dfc04e063" name="更改" comment="" />
+    <list default="true" id="7561a970-a688-4b64-9675-356dfc04e063" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gatt.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gatt.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,9 @@
     &quot;accountId&quot;: &quot;90a39713-2143-4f91-862a-210c6de907f5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -68,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722159033424</updated>
       <workItem from="1722159036137" duration="2460000" />
+      <workItem from="1722170155135" duration="865000" />
     </task>
     <servers />
   </component>

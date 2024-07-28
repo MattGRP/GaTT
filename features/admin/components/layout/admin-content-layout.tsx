@@ -54,11 +54,6 @@ export const adminNavItems: Array<{
     icon: <Book className="size-4" />,
   },
   {
-    label: PATHS_MAP[PATHS.ADMIN_MESSAGE],
-    link: PATHS.ADMIN_MESSAGE,
-    icon: <ScrollIcon className="size-4" />,
-  },
-  {
     label: PATHS_MAP[PATHS.ADMIN_SNIPPET],
     link: PATHS.ADMIN_SNIPPET,
     icon: <CodeXml className="size-4" />,
