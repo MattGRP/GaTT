@@ -2,7 +2,7 @@
 export const EMAIL = "grp20030321@163.com";
 
 /** 昵称 */
-export const NICKNAME = "耿仁鹏";
+export const NICKNAME = "GaTT";
 
 /** Github 个人页 */
 export const GITHUB_PAGE = "https://github.com/MattGRP";
