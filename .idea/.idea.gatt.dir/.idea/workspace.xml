@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7561a970-a688-4b64-9675-356dfc04e063" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/components/icons/line-md/icon-line-md-email.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/line-md/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/logos/icon-logo-apple.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/logos/icon-logo-datagrip.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/skills/icon-skill-dotnet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/skills/icon-skill-postgreSQL.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/skills/icon-skill-rider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/skills/icon-skill-visualstudio.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caddyfile" beforeDir="false" afterPath="$PROJECT_DIR$/Caddyfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/about/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/blog/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/blog/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/snippet/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/snippet/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/bytemd/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/bytemd/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/bytemd/plugins/pretty-link.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/bytemd/plugins/pretty-link.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/console/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/console/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mode-toggle/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/mode-toggle/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/navbar/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/navbar/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/ascii.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/ascii.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/assets.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/assets.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/info.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/info.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/admin/components/layout/admin-content-layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/components/layout/admin-content-layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/admin/pages/blog/admin-blog-list-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/blog/admin-blog-list-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/admin/pages/home/admin-home-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/home/admin-home-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/admin/pages/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/admin/pages/note/admin-note-list-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/note/admin-note-list-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/admin/pages/snippet/admin-snippet-list-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/snippet/admin-snippet-list-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/admin/pages/tag/admin-tag-list-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/admin/pages/tag/admin-tag-list-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/blog/components/blog-list-item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/blog/components/blog-list-item.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/blog/components/blog-list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/blog/components/blog-list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/blog/pages/blog-detail-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/blog/pages/blog-detail-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/home/compoents/hero-section.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/home/compoents/hero-section.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/home/compoents/social-media.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/home/compoents/social-media.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/home/compoents/type-intro.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/home/compoents/type-intro.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/snippet/actions/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/features/snippet/actions/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/snippet/components/snippet-list-item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/snippet/components/snippet-list-item.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/snippet/components/snippet-list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/snippet/components/snippet-list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/snippet/pages/snippet-detail-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/snippet/pages/snippet-detail-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/upload/actions/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/features/upload/actions/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-sitemap.config.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/next-sitemap.config.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/aifuxi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/fuxiaochen-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/fuxiaochen-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/qrcode_fuxiaochen.com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/bytemd.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/bytemd.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MattGRP"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aifuxi/fuxiaochen.git",
+    "accountId": "90a39713-2143-4f91-862a-210c6de907f5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jrxWiHrFuQnH4IXuXWVpdgpp8A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "C:\\Users\\GaTT\\Desktop\\gatt\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\GaTT\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\GaTT\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\GaTT\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7561a970-a688-4b64-9675-356dfc04e063" name="更改" comment="" />
+      <created>1722159033424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722159033424</updated>
+      <workItem from="1722159036137" duration="2112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
