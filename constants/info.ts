@@ -26,8 +26,8 @@ export const BEI_AN_NUMBER = "鲁ICP备2024106240号";
 export const BEI_AN_LINK = "https://beian.miit.gov.cn";
 
 /** 公安备案号 */
-export const GONG_AN_NUMBER = "备案申请中";
+export const GONG_AN_NUMBER = "鲁公网安备37011602000341号";
 
 /** 公安网站链接 */
 export const GONG_AN_LINK =
-  "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=";
+  "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37011602000341";
