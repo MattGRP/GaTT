@@ -159,10 +159,10 @@ export default function Page() {
             <li> <IconLogoApple className="mx-1 translate-y-0.5"/>
               iPhone 15 黑色 128G
             </li>
-            <li>
-              Honor MagicBook 15
+            <li>  <IconLogoApple className="mx-1 translate-y-0.5"/>
+              MacBook Air M2 16+512
               <span className="line-through">
-                想换MacBook + Vison Pro的第10086天
+                想买 Vison Pro的第10086天
               </span>
               🙃
             </li>
